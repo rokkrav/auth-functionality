@@ -1,0 +1,11 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+.content-container {
+  display: flex;
+  align-items: center;
+}
+.item {
+  margin-right: 12px;
+}
